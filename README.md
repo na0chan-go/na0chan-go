@@ -5,7 +5,25 @@
 
 **Languages and Tools**
 
-![](https://skillicons.dev/icons?i=go,dart,flutter,docker,kubernetes,terraform,gcp)
+**実務で利用**
+
+**Languages**
+
+![](https://skillicons.dev/icons?i=go,ts,angular,react,html,css&perline=3)
+
+**Tools**
+
+![](https://skillicons.dev/icons?i=docker,kubernetes,terraform,gcp&perline=3)
+
+**趣味で利用**
+
+**Languages**
+
+![](https://skillicons.dev/icons?i=dart,flutter,nextjs,tailwind,java&perline=3)
+
+**Tools**
+
+![](https://skillicons.dev/icons?i=aws&perline=3)
 
 <p align="left">
   <a href="https://github.com/na0chan-go">
