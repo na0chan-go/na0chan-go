@@ -1,44 +1,99 @@
-- 👋 Hi, I’m @na0chan-go
-- 📫 How to reach me ... https://x.com/na0chaa
+# Hi, I’m @na0chan-go　👋 
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=na0chan-go&show_icons=true&locale=en&layout=compact)
+Goを中心にWebサービス開発を行うバックエンドエンジニア。  
+GCPを利用したクラウドバックエンド開発を主軸に、API設計・データ処理基盤の開発を行っています。
 
-**Languages and Tools**
+また、AIコーディングツールを活用した個人開発や自動化システムの検証も行っています。
 
-**実務で利用**
+---
 
-**Languages**
+# 🚀 Strengths
 
-![](https://skillicons.dev/icons?i=go,ts,angular,react,html,css&perline=3)
+### Goバックエンド開発
 
-**Tools**
+- Go(Echo)によるREST API設計・開発
+- OpenAPIによるAPI仕様管理
+- データベース設計
+- バッチ処理 / CSV処理
+- パフォーマンス改善
 
-![](https://skillicons.dev/icons?i=docker,kubernetes,terraform,gcp&perline=3)
+---
 
-**趣味で利用**
+### Cloud Backend (GCP)
 
-**Languages**
+- GKE
+- Cloud Functions
+- PubSub
+- BigQuery
+- Datastore / Firestore
+- Cloud Logging
 
-![](https://skillicons.dev/icons?i=dart,flutter,nextjs,tailwind,java&perline=3)
+ログ監視やメトリクス整備など  
+運用を考慮したバックエンド改善経験があります。
 
-**Tools**
+---
 
-![](https://skillicons.dev/icons?i=aws&perline=3)
+### Fullstack Development
 
-<p align="left">
-  <a href="https://github.com/na0chan-go">
-    <img height="20" src="https://komarev.com/ghpvc/?username=na0chan-go" />
-  </a>
-  <a href="https://github.com/na0chan-go">
-    <img height="20" src="https://img.shields.io/github/followers/na0chan-go?label=follow&logo=github&style=flat" />
-  </a>
-  <a href="https://zenn.dev/nn19960218">
-    <img height="20" src="https://badgen.org/img/zenn/nn19960218/articles?style=plastic" />
-  </a>
-</p>
+フロントエンド開発にも対応可能です。
 
+- Vue3 + TypeScript
+- React
+- Angular
 
-<!---
-na0chan-go/na0chan-go is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ダッシュボードや管理画面などのUI開発を担当。
+
+---
+
+# 🤖 AI × Development
+
+AIコーディングツール（OpenAI Codexなど）を活用した個人開発を行っています。
+
+- 自動化システムの開発
+- Chrome拡張
+- AIを活用した開発ワークフローの検証
+
+AIとの協調開発により、  
+設計改善・高速プロトタイピングを実践しています。
+
+---
+
+# 🛠 Tech Stack
+
+### Backend
+![](https://skillicons.dev/icons?i=go)
+
+Echo / GORM / REST API / OpenAPI
+
+---
+
+### Frontend
+![](https://skillicons.dev/icons?i=ts,vue,react,angular,html,css)
+
+---
+
+### Cloud / Infrastructure
+![](https://skillicons.dev/icons?i=gcp,docker)
+
+---
+
+### Database
+
+- MySQL
+- PostgreSQL
+- BigQuery
+- Cloud Datastore
+- Firestore
+
+---
+
+# 🔗 Links
+
+GitHub  
+https://github.com/na0chan-go
+
+Zenn  
+https://zenn.dev/nn19960218
+
+X  
+https://x.com/na0chaa
